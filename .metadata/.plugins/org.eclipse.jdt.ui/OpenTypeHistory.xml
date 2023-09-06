@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+    <typeInfo handle="=day0818/C:\/eclipse-java-2020-12-R-win32-x86_64\/eclipse\/plugins\/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_15.0.1.v20201027-0507\/jre\/lib\/jrt-fs.jar`java.desktop=/module=/true=/=/javadoc_location=/https:\/\/docs.oracle.com\/en\/java\/javase\/15\/docs\/api\/=/&lt;java.awt(Shape.class[Shape" modifiers="1537" timestamp="1603742986000"/>
+    <typeInfo handle="=day0818/C:\/eclipse-java-2020-12-R-win32-x86_64\/eclipse\/plugins\/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_15.0.1.v20201027-0507\/jre\/lib\/jrt-fs.jar`java.base=/module=/true=/=/javadoc_location=/https:\/\/docs.oracle.com\/en\/java\/javase\/15\/docs\/api\/=/&lt;java.lang(Object.class[Object" modifiers="33" timestamp="1603742986000"/>
+    <typeInfo handle="=day0818/src&lt;com.acorn._abstract{Shape.java[Shape" modifiers="1025" timestamp="1692343559134"/>
+    <typeInfo handle="=day0818/src&lt;com.acorn._interface{DatabaseMoudule.java[DatabaseMoudule" modifiers="513" timestamp="1692346968598"/>
+    <typeInfo handle="=day0818/C:\/eclipse-java-2020-12-R-win32-x86_64\/eclipse\/plugins\/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_15.0.1.v20201027-0507\/jre\/lib\/jrt-fs.jar`java.xml.crypto=/module=/true=/=/javadoc_location=/https:\/\/docs.oracle.com\/en\/java\/javase\/15\/docs\/api\/=/&lt;javax.xml.crypto(Data.class[Data" modifiers="1537" timestamp="1603742986000"/>
+</typeInfoHistroy>

@@ -1,0 +1,20 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\hbi\eclipse-workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\day0816python\com.python.pydev.analysis\v2_indexcache
+basic.innerFunction|1692175836757392300|C:\Users\hbi\eclipse-workspace\day0816python\basic\innerFunction.py
+basic.__init__|1692167552722052200|C:\Users\hbi\eclipse-workspace\day0816python\basic\__init__.py
+games.__init__|1692168135897284500|C:\Users\hbi\eclipse-workspace\day0816python\games\__init__.py
+-- END DISKCACHE
+-- START DICTIONARY
+2
+2=basic.innerFunction
+1=C:\Users\hbi\eclipse-workspace\day0816python\basic\innerFunction.py
+-- END DICTIONARY
+-- START TREE 1
+2
+mai|1|main!1^10#5*18@
+sur|1|SURFACE!1^6#1*19@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

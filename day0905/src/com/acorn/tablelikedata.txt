@@ -1,0 +1,5 @@
+Title#studentid#name#departmentid
+Data#1234567#홍길동#10001
+Data#2234567#청길동#10002
+Data#3234567#백길동#10003
+Data#4234567#흑길동#10004
